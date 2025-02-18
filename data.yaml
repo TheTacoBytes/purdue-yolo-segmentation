@@ -1,0 +1,15 @@
+names:
+  0: road
+  1: solid_line
+  2: dotted_line
+  3: finish
+# path: /home/beto/ISC/YOLO/TRACK/track/YOLO/data
+# train: /home/beto/ISC/YOLO/TRACK/track/YOLO/train.txt
+# val: /home/beto/ISC/YOLO/TRACK/track/YOLO/data/images/val 
+
+# Base dataset directory
+path: /home/beto/ISC/YOLO/TRACK/track/YOLO/data
+
+# Directories for training and validation images
+train: images/train
+val: images/val
